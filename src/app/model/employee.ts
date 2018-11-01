@@ -1,8 +1,8 @@
 export class Employee {
     public employeeId: number;
     public employeeName: string;
-    public dept: string;
-    public email: string;
-    public mbno: string;
+    public department: string;
+    public emailId: string;
+    public mobileNumber: string;
     public company: string;
 }
